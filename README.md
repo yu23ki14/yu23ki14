@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://animation.kumaleon.com/1076/?hash=0xc2ffc9c7d8466a0d75cd724843f2a3ae8b619ff74069a783eef40426b3a0d26d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" loading="lazy" allowfullscreen> </iframe>
+![kuma](https://animation.kumaleon.com/1076/?hash=0xc2ffc9c7d8466a0d75cd724843f2a3ae8b619ff74069a783eef40426b3a0d26d)]
 
 <!--
 **yu23ki14/yu23ki14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
