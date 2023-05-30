@@ -5,3 +5,5 @@ I'm diving into the web3 world in 2022 and am working on developing with Solidit
 
 WORK EXPERIENCE  
 NPO (Code for Japan), Startups (FINNOW, EXx, Huber.)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yu23ki14)](https://github.com/ryo-ma/github-profile-trophy)
