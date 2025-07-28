@@ -18,12 +18,20 @@ Code for Japan エンジニア / Senspace CTO
 2022年からCode for Japanにて、データ連携基盤（都市OS）やオープンデータ、気候変動対策、web3に関するプロジェクトに参加し、プロトタイプ開発やシビックテックコミュニティの醸成を行っている。
 2024年から、新しいSNSのフォーマットである、みんなでつくるデジタルスクラップブックアプリを開発しているSenspaceでCo-Founder CTOを務めている。
 
+## 日本語 ショートver
+
+Senspace Co-Founder/CTO, Code for Japan エンジニア。近年はシビックテック x web3と新しいSNSのあり方の探索取り組んでいる。これまで複数のスタートアップで開発に従事。
+
 ## English
 
 Graduated from Keio University Graduate School of Media and Governance.
 Since 2018, worked as a freelance engineer, primarily focusing on development for startups during their early stages.
 Since 2022, involved in projects at Code for Japan related to smart city, open data, climate change, and web3. Contributed to prototype development and the cultivation of civic tech communities.
 Since 2024, he has been Co-Founder CTO at Senspace, which is developing a new social media format, a digital scrapbook application for everyone.
+
+## English short ver
+
+Co-Founder/CTO of Senspace and Engineer at Code for Japan. Recently exploring the intersection of civic tech and web3, as well as new formats of social media. Previously engaged in development across multiple startups.
 
 ## PFP
 
