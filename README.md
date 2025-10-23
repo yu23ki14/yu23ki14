@@ -27,7 +27,7 @@ Senspace Co-Founder/CTO, Code for Japan エンジニア。近年はシビック�
 ## English
 
 Yuki Kawabe
-Code for Japan developer / Senspace Co-founder CTO 
+Code for Japan developer / Senspace Co-founder CTO  
 
 Graduated from Keio University Graduate School of Media and Governance.  
 Started to work as a freelance engineer since a student, primarily focusing on development for startups during their early stages.  
