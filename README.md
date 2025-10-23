@@ -33,6 +33,6 @@ Since 2024, he has been Co-Founder CTO at Senspace, which is developing a new so
 
 Co-Founder/CTO of Senspace and Engineer at Code for Japan. Recently exploring the intersection of civic tech and web3, as well as new formats of social media. Previously engaged in development across multiple startups.
 
-## PFP
+## プロフィール写真 / PFP
 
 [正方形](https://photos.app.goo.gl/RfuM15cCnziTmL6e6)
