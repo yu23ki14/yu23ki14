@@ -13,7 +13,7 @@ NPO (Code for Japan), Startups (Senspace, FINNOW, EXx, Huber.)
 ## 日本語
 
 川邊悠紀  
-Code for Japan 業務執行理事・エンジニア / Senspace 共同創業者CTO  
+Code for Japan 代表理事 / Senspace 共同創業者CTO  
 
 慶應義塾大学大学院 政策メディア研究科修了  
 在学中にフリーランスエンジニアとして、主にスタートアップの立ち上げ時期の開発を行いソフトウェア開発者としてのキャリアをスタート。  
@@ -27,7 +27,7 @@ Senspace Co-Founder/CTO, Code for Japan エンジニア。近年はシビック�
 ## English
 
 Yuki Kawabe  
-Code for Japan developer / Senspace Co-founder CTO  
+Code for Japan president / Senspace Co-founder CTO  
 
 Graduated from Keio University Graduate School of Media and Governance.  
 Started to work as a freelance engineer since a student, primarily focusing on development for startups during their early stages.  
